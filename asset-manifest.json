@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/rainbow/static/js/main.c6df6d03.chunk.js",
+    "main.js.map": "/rainbow/static/js/main.c6df6d03.chunk.js.map",
+    "runtime-main.js": "/rainbow/static/js/runtime-main.77956621.js",
+    "runtime-main.js.map": "/rainbow/static/js/runtime-main.77956621.js.map",
+    "static/js/2.0a5ee146.chunk.js": "/rainbow/static/js/2.0a5ee146.chunk.js",
+    "static/js/2.0a5ee146.chunk.js.map": "/rainbow/static/js/2.0a5ee146.chunk.js.map",
+    "static/js/3.205a74a2.chunk.js": "/rainbow/static/js/3.205a74a2.chunk.js",
+    "static/js/3.205a74a2.chunk.js.map": "/rainbow/static/js/3.205a74a2.chunk.js.map",
+    "index.html": "/rainbow/index.html",
+    "static/js/2.0a5ee146.chunk.js.LICENSE.txt": "/rainbow/static/js/2.0a5ee146.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77956621.js",
+    "static/js/2.0a5ee146.chunk.js",
+    "static/js/main.c6df6d03.chunk.js"
+  ]
+}
